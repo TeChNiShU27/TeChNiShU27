@@ -1,0 +1,6 @@
+a=str(input("Enter student's name: "))
+b=str(input("Enter student's age: "))
+c=str(input("Enter student's class: "))
+print(a,';',b,';',c)
+#print(a,b,c)
+#print()
